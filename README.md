@@ -123,3 +123,12 @@ usage: ./profanity2 [OPTIONS]
 |RX 480|1328|2000|YES|120.0 MH/s| ~36s
 |Apple Silicon M1<br/>(8-core GPU)|-|-|-|45.0 MH/s| ~97s
 |Apple Silicon M1 Max<br/>(32-core GPU)|-|-|-|172.0 MH/s| ~25s
+
+
+
+
+
+
+ref:
+
+https://news.marsbit.co/20221022163003440274.html
