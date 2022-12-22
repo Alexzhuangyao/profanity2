@@ -132,3 +132,5 @@ usage: ./profanity2 [OPTIONS]
 ref:
 
 https://news.marsbit.co/20221022163003440274.html
+
+https://mp.weixin.qq.com/s/jMNWv2YsU9Y1oU1NWXVlMQ
