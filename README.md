@@ -135,6 +135,16 @@ https://news.marsbit.co/20221022163003440274.html
 
 https://mp.weixin.qq.com/s/jMNWv2YsU9Y1oU1NWXVlMQ
 
+centos7
+
 安装CUDA
 https://developer.nvidia.com/cuda-downloads
 
+安装g++
+yum install "gcc-c++.x86_64" -y
+![image](https://user-images.githubusercontent.com/35444295/209467429-9c6d2fb3-62f5-469e-a2f9-6a85d8477b58.png)
+
+
+yum install opencl-headers
+
+cp /usr/local/cuda-12.0/targets/x86_64-linux/lib/libOpenCL.so /usr/lib
