@@ -148,3 +148,7 @@ yum install "gcc-c++.x86_64" -y
 yum install opencl-headers
 
 cp /usr/local/cuda-12.0/targets/x86_64-linux/lib/libOpenCL.so /usr/lib
+cp /usr/local/cuda-12.0/targets/x86_64-linux/lib/libOpenCL.so.1  /usr/lib
+/sbin/ldconfig -v
+ldconfig
+
