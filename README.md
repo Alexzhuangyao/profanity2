@@ -152,3 +152,10 @@ cp /usr/local/cuda-12.0/targets/x86_64-linux/lib/libOpenCL.so.1  /usr/lib
 /sbin/ldconfig -v
 ldconfig
 
+
+
+0xeac027528cdfc707ac4e7543d613f5a02e986212
+
+0xc578d755cd56255d3ff6e92e1b6371ba945e3984
+
+0x9bae78d1c67826cde91b20b49690589ed0879fc7
